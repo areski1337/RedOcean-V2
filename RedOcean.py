@@ -1,16 +1,6 @@
 from builtins import *
 from math import prod as System
 
-
-__obfuscator__ = 'Hyperion'
-__authors__ = ('billythegoat356', 'BlueRed')
-__github__ = 'https://github.com/billythegoat356/Hyperion'
-__discord__ = 'https://discord.gg/plague'
-__license__ = 'EPL-2.0'
-
-__code__ = 'print("Hello world!")'
-
-
 Builtins, _positive, Power, _while, _callfunction, DetectVar, Cube = exec, str, tuple, map, ord, globals, type
 
 class Round:
